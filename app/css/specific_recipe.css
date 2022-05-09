@@ -1,0 +1,32 @@
+.header {
+    text-align: center;
+    color: rgb(36.6%, 33.3%, 23.6%);
+    margin-top: 20px;
+}
+
+.icons {
+    text-align: center;
+    background-color: rgb(92.4%, 93.7%, 88.8%);
+    margin-left: 450px;
+    margin-right: 450px;
+    border-radius: 20px;
+}
+
+.ingredient {
+    margin-top: 50px;
+    margin-left: 260px;
+    margin-bottom: 50px;
+}
+
+.preparation {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ingredient ul {
+    margin: auto;
+}
+
+.preparation ol {
+    margin: auto;
+}
